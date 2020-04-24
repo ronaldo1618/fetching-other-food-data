@@ -1,0 +1,11 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+}
+
+.horizontal_contain {
+    padding: 10px;
+    padding-bottom: 0;
+    margin: 5px;
+    border: 1px solid red;
+}
